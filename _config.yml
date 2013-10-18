@@ -1,5 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 author: cc191954
+url: http://cc191954.github.io/
 pygments: true
 paginate: 24
