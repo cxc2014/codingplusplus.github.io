@@ -4,10 +4,9 @@ layout: page
 comments: yes
 ---
   
-卢克进, 08年毕业于南京理工大学计算机学院.      
-熟练使用常见的计算机语言.      
-目前从事Mac,iOS开发相关工作.      
+陈超，08年毕业于湖北民族学院信息与计算科学。
+熟练使用C++，java，以前在windows平台下开发过游戏，winCE上开发过系统应用。
+目前从事Android开发，业余时间学习IOS。      
 
-个人邮箱:kejinlu@gmail.com      
-新浪微博: [http://weibo.com/kejinlu](http://weibo.com/kejinlu)      
-github : [https://github.com/kejinlu](https://github.com/kejinlu)      
+个人邮箱:cc191954@gmail.com      
+github : [https://github.com/cc191954](https://github.com/cc191954)      
