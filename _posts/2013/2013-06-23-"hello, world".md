@@ -8,3 +8,5 @@ tags:
 ---
 
 终于把blog搭起来了，什么时候考虑把csdn的转过来。
+
+[Markdown教程](http://wowubuntu.com/markdown/)
