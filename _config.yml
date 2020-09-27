@@ -4,3 +4,5 @@ author: cc191954
 url: http://cc191954.github.io/
 pygments: true
 paginate: 24
+
+theme: jekyll-theme-slate
